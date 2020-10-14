@@ -1,0 +1,85 @@
+.menulogo {
+  padding-left: 460px;
+}
+
+.ui.menu.topmenu {
+  box-shadow: none;
+  border: none;
+  font-size: 13.5px;
+  padding-top: 1em;
+}
+
+.ui.menu.midmenu {
+  box-shadow: none;
+  border: none;
+  font-size: 13px;
+}
+
+.ui.three.column.grid {
+  margin: 5px;
+}
+
+.firstcol {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://cdn.shopify.com/s/files/1/2166/8231/files/Left_Bottom_feature_image_-_Hats_750x.jpg?v=1600358743');
+  background-size: cover;
+  height: 600px;
+}
+
+.secondcol {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://cdn.shopify.com/s/files/1/2166/8231/files/Middle_Bottom_feature_image_-_lifestyle_hoodies_and_sweaters_750x.jpg?v=1600358787');
+  background-size: cover;
+  height: 600px;
+}
+
+.thirdcol {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://cdn.shopify.com/s/files/1/2166/8231/files/Right_Bottom_feature_image_-_Shirts_and_Tees_750x.jpg?v=1600358766');
+  background-size: cover;
+  height: 600px;
+}
+
+.ui.three.column.grid h4 {
+  color: white;
+  position: absolute;
+  padding-top: 500px;
+  padding-left: 25px;
+}
+
+.footer {
+  background-color: #a2c0e6;
+  padding-top: 75px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.footer .ui.relaxed.list {
+  padding-top: 15px;
+  font-size: 13px;
+}
+
+.bear {
+  width: 50px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.copyright {
+  color: black;
+  font-size: 12px;
+}
+
+.footer a {
+  color: black;
+}
+
+.logo {
+  width: 170px;
+  padding-bottom: 10px;
+}
+
+.footer .three.wide.column {
+  padding-left: 150px !important;
+}
+
+.footer .four.wide.column {
+  padding-left: 150px !important;
+}
